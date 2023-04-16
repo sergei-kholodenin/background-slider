@@ -13,7 +13,6 @@ body{
     justify-content: center;
     height: 100vh;
     overflow: hidden;
-    background-image: url('https://mobimg.b-cdn.net/v3/fetch/ef/eff5678bdd7c558927ef070ff3f06e0e.jpeg');
     background-position: center center;
     background-size: cover;
     transition: .4s ease;
